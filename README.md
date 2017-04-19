@@ -6,9 +6,10 @@ Theme originally found at: https://www.gnome-look.org/p/1174889/
 Added some colors to the original theme that was white~ish~ and orange, not my prefered color combination though.
 
 # Installation
-Just download this repository and extract it under your themes folder, or run this command:
+Just download this repository and extract it under your themes folder, or run:
 ```sh
-$ wget https://github.com/heydemoura/UnitedRedux/archive/master.zip -O- |unzip - $HOME/.local/share/themes/
+$ git clone https://github.com/heydemoura/UnitedRedux && cd UnitedRedux
+$ ./install.sh
 ```
 
 # Screenshot
