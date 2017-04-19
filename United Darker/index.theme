@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=United Darker
+Comment=A Unity 8 theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=United Darker
+MetacityTheme=United Darker

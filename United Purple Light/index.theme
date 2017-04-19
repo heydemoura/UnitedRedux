@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=United Purple Light
+Comment=A Unity 8 theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=United Purple Light
+MetacityTheme=United Light
