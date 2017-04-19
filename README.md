@@ -11,5 +11,9 @@ Just download this repository and extract it under your themes folder, or run th
 $ wget https://github.com/heydemoura/UnitedRedux/archive/master.zip -O- |unzip - $HOME/.local/share/themes/
 ```
 
-TODO: Put some sick screenshots
-TODO: Put the list of all the colors available and colors
+# Screenshot
+
+![Purple Light](https://github.com/heydemoura/UbuntuRedux/raw/master/screenshot.png "Screenshot: Purple Light")
+
+# TODO
+- Put the list of all the colors available and colors
