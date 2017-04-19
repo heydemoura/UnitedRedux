@@ -13,7 +13,7 @@ $ wget https://github.com/heydemoura/UnitedRedux/archive/master.zip -O- |unzip -
 
 # Screenshot
 
-![Purple Light](https://github.com/heydemoura/UbuntuRedux/raw/master/screenshot.png "Screenshot: Purple Light")
+![Purple Light](https://raw.githubusercontent.com/heydemoura/UnitedRedux/master/screenshot.png)
 
 # TODO
 - Put the list of all the colors available and colors
